@@ -1,4 +1,4 @@
-# Cảm biến ánh sáng quang trở MKE-S02 LDR light sensor
+# Cảm biến ánh sáng quang trở MKE-S02 LDR Light Sensor
 
 ## Giới thiệu
 
