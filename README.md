@@ -10,7 +10,7 @@ Cảm biến ánh sáng quang trở MKE-S02 LDR light sensor thuộc hệ sinh t
 
 Cảm biến hoạt động dựa trên sự thay đổi điện trở (độ dẫn điện) của quang trở (LDR-Light Dependent Resistor) với cường độ ánh sáng của môi trường, để chuyển giá trị điện trở thành điện áp để có thể đọc bằng bộ chuyển đổi ADC (Analog to Digital Converter) của mạch xử lý ta mắc mạch cầu phân áp như sau:
 
-![MKE_S02_LDR](/image/MKE_S02_LDR_1.jpg)
+![MKE_S02](/image/MKE_S02_1.jpg)
 
 Diễn giải các giá trị:
 
@@ -35,13 +35,13 @@ Ta thấy theo công thức trong hình giá trị Vout sẽ thay đổi theo gi
 
 ## Hình ảnh sản phẩm
 
-![MKE_S02_LDR](/image/MKE_S02_LDR_2.jpg)
+![MKE_S02](/image/MKE_S02_2.jpg)
 
-![MKE_S02_LDR](/image/MKE_S02_LDR_3.jpg)
+![MKE_S02](/image/MKE_S02_3.jpg)
 
 ## Kích thước sản phẩm
 
-![MKE_S02_LDR](/image/MKE_S02_LDR_4.JPG)
+![MKE_S02](/image/MKE_S02_4.JPG)
 
 ## Các chân tín hiệu
 
