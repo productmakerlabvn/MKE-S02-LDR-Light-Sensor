@@ -65,7 +65,7 @@ Ta thấy theo công thức trong hình giá trị Vout sẽ thay đổi theo gi
 
 #### Micro:bit:
 
-- Mạch Micro:bit V2 hoặc các phiên bản tương thích.
+- [Mạch Micro:bit V2](https://hshop.vn/products/kit-hoc-lap-trinh-stem-cho-tre-em-micro-bit-v2) hoặc các phiên bản tương thích.
 - [Mạch MakerEdu Shield for Micro:bit](https://www.makerlab.vn/microbitsd)
 - [Mạch màn hình MKE-M07 LCD1602 I2C Display Module](https://www.makerlab.vn/mkem07)
 
