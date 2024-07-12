@@ -92,7 +92,7 @@ Ta thấy theo công thức trong hình giá trị Vout sẽ thay đổi theo gi
 - Khởi động phần mềm MakeCode tại: [https://makecode.microbit.org/](https://makecode.microbit.org/)
 - Chọn My Projects / Import / Import URL theo đường link của chương trình mẫu: [https://github.com/devmakerlabvn/makecode-mke-s02-ldr-light-sensor](https://github.com/devmakerlabvn/makecode-mke-s02-ldr-light-sensor)
 - Kết nối Micro:bit với máy tính và nạp chương trình.
-- Kết nối mạch Micro:bit với MakerEdu Shield, kết nối cảm biến tại cổng [P0+P1] và màn hình LCD vào cổng [I2C] trên MakerEdu Shield, **cấp nguồn qua cổng USB của MakerEdu Shield** để thấy chương trình hoạt động.
+- Kết nối mạch Micro:bit với MakerEdu Shield, kết nối cảm biến tại cổng [P0] và màn hình LCD vào cổng [I2C] trên MakerEdu Shield, **cấp nguồn qua cổng USB của MakerEdu Shield** để thấy chương trình hoạt động.
 
 ## Hỗ trợ và liên hệ:
 
